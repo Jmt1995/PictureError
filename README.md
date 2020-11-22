@@ -1,4 +1,4 @@
-# 图片未显示问题
+# Ghub中图片未显示问题
 github中的图片未显示的话，将下面的信息追加到文件中
 C:\Windows\System32\drivers\etc\hosts
 
